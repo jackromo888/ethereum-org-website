@@ -71,7 +71,7 @@
     "react-intl": "^3.12.1",
     "react-rewards": "^2.0.4",
     "react-select": "^4.3.0",
-    "recharts": "^2.1.9",
+    "recharts": "^2.10.4",
     "styled-system": "^5.1.5",
     "unist-util-visit-parents": "^2.1.2"
   },
